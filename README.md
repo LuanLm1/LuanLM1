@@ -1,5 +1,8 @@
 
-Olá, eu sou o Luan Lagrimante 👋
+Luan Lagrimante 👋
+
+
+
 
 🔭 Sobre Mim
 - 🎓 Graduação em Análise e Desenvolvimento de Sistemas (UniCesumar).
@@ -7,12 +10,19 @@ Olá, eu sou o Luan Lagrimante 👋
 - 💼 Atualmente atuando como Analista de Sistemas Jr na Life Gestão de Frotas.
 
 
+
 📊 Buscando oportunidades — remuneradas ou voluntárias — para aplicar e aprimorar minhas habilidades em projetos reais.
+
+
+
+
 🚀 Sempre aberto a novos desafios e aprendizados.
 
 
 📫 Contato
+
 ✉️ llagrimante2@gmail.com
+
 🔗 [LinkedIn](https://www.linkedin.com/in/luan-lagrimante-454012173)
 <!--
 **LuanLm1/LuanLM1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
